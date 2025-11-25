@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * from './product/_module';
